@@ -1,0 +1,13 @@
+@media (max-width: 768px ) {
+    .conteiner{
+        flex-direction: column;
+    }
+
+    .list{
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .big-image{
+        max-height: 40vh;
+    }
+}
