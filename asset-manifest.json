@@ -1,13 +1,40 @@
 {
   "files": {
     "main.css": "/Sonic-Battle-React/static/css/main.df931ce8.css",
-    "main.js": "/Sonic-Battle-React/static/js/main.6d01f165.js",
+    "main.js": "/Sonic-Battle-React/static/js/main.d964bf4b.js",
+    "static/media/tails.png": "/Sonic-Battle-React/static/media/tails.b2e12b1ea9c57b688ef8.png",
+    "static/media/shadow.png": "/Sonic-Battle-React/static/media/shadow.d75b6a8e81b98f83f081.png",
+    "static/media/sonic.png": "/Sonic-Battle-React/static/media/sonic.e1638fe3af2d87f8f464.png",
+    "static/media/knuckles.png": "/Sonic-Battle-React/static/media/knuckles.50df6137aee60b536f67.png",
+    "static/media/rouge.png": "/Sonic-Battle-React/static/media/rouge.cd2a8f00d01879943a23.png",
+    "static/media/supersonic.png": "/Sonic-Battle-React/static/media/supersonic.a0a5ded2ab37e1cb3842.png",
+    "static/media/amy.png": "/Sonic-Battle-React/static/media/amy.8608f23eff8bd10f1bba.png",
+    "static/media/eggman.png": "/Sonic-Battle-React/static/media/eggman.441e5a53b5b6c703fcda.png",
+    "static/media/cream.png": "/Sonic-Battle-React/static/media/cream.47c83dafc227e61036bb.png",
+    "static/media/cream-icon.png": "/Sonic-Battle-React/static/media/cream-icon.27f70bbca80c51cd6100.png",
+    "static/media/rouge-icon.png": "/Sonic-Battle-React/static/media/rouge-icon.f76a00999db8b4c63e34.png",
+    "static/media/tails-icon.png": "/Sonic-Battle-React/static/media/tails-icon.d531c7e19ea21b6ad31d.png",
+    "static/media/eggman-icon.png": "/Sonic-Battle-React/static/media/eggman-icon.1ab1f084c1c5f5a6d7e4.png",
+    "static/media/amy-icon.png": "/Sonic-Battle-React/static/media/amy-icon.a4a69c91bd73ca1677b0.png",
+    "static/media/sonic-icon.png": "/Sonic-Battle-React/static/media/sonic-icon.ae310c073f9e02a039c8.png",
+    "static/media/knuckles-icon.png": "/Sonic-Battle-React/static/media/knuckles-icon.395409ba842c33561644.png",
+    "static/media/shadow-icon.png": "/Sonic-Battle-React/static/media/shadow-icon.d4221a4aefc0e17f98da.png",
+    "static/media/supersonic.mp3": "/Sonic-Battle-React/static/media/supersonic.a2cbd433e9ec37ed4385.mp3",
+    "static/media/supersonic-icon.png": "/Sonic-Battle-React/static/media/supersonic-icon.91532b651ff9ed2224d6.png",
+    "static/media/shadow.mp3": "/Sonic-Battle-React/static/media/shadow.87312c1cc4ed4ab94f8d.mp3",
+    "static/media/eggman.mp3": "/Sonic-Battle-React/static/media/eggman.382f0b8dbb26052bc3dd.mp3",
+    "static/media/tails.mp3": "/Sonic-Battle-React/static/media/tails.9e8e28b8c6698ae4a864.mp3",
+    "static/media/cream.mp3": "/Sonic-Battle-React/static/media/cream.0a44b3b11894d2aba3e9.mp3",
+    "static/media/knuckles.mp3": "/Sonic-Battle-React/static/media/knuckles.4af164e982d38ef30d20.mp3",
+    "static/media/sonic.mp3": "/Sonic-Battle-React/static/media/sonic.9f6b19566fa1927637f7.mp3",
+    "static/media/rouge.mp3": "/Sonic-Battle-React/static/media/rouge.057d821dadb95b5ae14d.mp3",
+    "static/media/amy.mp3": "/Sonic-Battle-React/static/media/amy.795ef7b492fcde3dc44e.mp3",
     "index.html": "/Sonic-Battle-React/index.html",
     "main.df931ce8.css.map": "/Sonic-Battle-React/static/css/main.df931ce8.css.map",
-    "main.6d01f165.js.map": "/Sonic-Battle-React/static/js/main.6d01f165.js.map"
+    "main.d964bf4b.js.map": "/Sonic-Battle-React/static/js/main.d964bf4b.js.map"
   },
   "entrypoints": [
     "static/css/main.df931ce8.css",
-    "static/js/main.6d01f165.js"
+    "static/js/main.d964bf4b.js"
   ]
 }
