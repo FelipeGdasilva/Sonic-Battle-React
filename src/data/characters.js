@@ -3,7 +3,7 @@ const characters = [
   {
     id: 1,
     name: "Sonic the Hedgehog",
-    icon: "/icons/sonic-icon.png",
+    icon: `${process.env.PUBlIC_URL}/icons/sonic-icon.png`,
     image: "/images/sonic.png",
     sound: "/sounds/sonic.mp3"
   },
