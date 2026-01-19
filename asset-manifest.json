@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/felipegdasilva.github.io/sonic-Battle-React/static/css/main.df931ce8.css",
-    "main.js": "/felipegdasilva.github.io/sonic-Battle-React/static/js/main.c9ae5b3b.js",
-    "index.html": "/felipegdasilva.github.io/sonic-Battle-React/index.html",
-    "main.df931ce8.css.map": "/felipegdasilva.github.io/sonic-Battle-React/static/css/main.df931ce8.css.map",
-    "main.c9ae5b3b.js.map": "/felipegdasilva.github.io/sonic-Battle-React/static/js/main.c9ae5b3b.js.map"
+    "main.css": "/Sonic-Battle-React%20/static/css/main.df931ce8.css",
+    "main.js": "/Sonic-Battle-React%20/static/js/main.c9ae5b3b.js",
+    "index.html": "/Sonic-Battle-React%20/index.html",
+    "main.df931ce8.css.map": "/Sonic-Battle-React%20/static/css/main.df931ce8.css.map",
+    "main.c9ae5b3b.js.map": "/Sonic-Battle-React%20/static/js/main.c9ae5b3b.js.map"
   },
   "entrypoints": [
     "static/css/main.df931ce8.css",
