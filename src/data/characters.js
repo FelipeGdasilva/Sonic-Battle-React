@@ -11,7 +11,7 @@ const characters = [
     id: 2,
     name: "Miles Tails Prower",
     icon: `${process.env.PUBLIC_URL}/icons/tails-icon.png`,
-    image: `${process.env.PUBLIC_URL}/images/tails.png`,
+    image: `${process.env.PUBLIC_URL}/images/Tails.png`,
     sound: `${process.env.PUBLIC_URL}/sounds/tails.mp3`
   },
   {
@@ -33,21 +33,21 @@ const characters = [
     name: "Supersonic",
     icon: `${process.env.PUBLIC_URL}/icons/supersonic-icon.png`,
     image: `${process.env.PUBLIC_URL}/images/supersonic.png`,
-    sound: `${process.env.PUBLIC_URL}/sounds/supersonic.mp3`
+    sound: `${process.env.PUBLIC_URL}/sounds/supersonic.Mp3`
   },
   {
     id: 6,
     name: "Rouge the Bat",
     icon: `${process.env.PUBLIC_URL}/icons/rouge-icon.png`,
     image: `${process.env.PUBLIC_URL}/images/rouge.png`,
-    sound: `${process.env.PUBLIC_URL}/sounds/rouge.mp3`
+    sound: `${process.env.PUBLIC_URL}/sounds/rouge.Mp3`
   },
   {
     id: 7,
     name: "Dr.Eggman",
     icon: `${process.env.PUBLIC_URL}/icons/eggman-icon.png`,
     image: `${process.env.PUBLIC_URL}/images/eggman.png`,
-    sound: `${process.env.PUBLIC_URL}/sounds/eggman.mp3`
+    sound: `${process.env.PUBLIC_URL}/sounds/eggman.Mp3`
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ const characters = [
     name: "cream the Rabbit",
     icon: `${process.env.PUBLIC_URL}/icons/cream-icon.png`,
     image: `${process.env.PUBLIC_URL}/images/cream.png`,
-    sound: `${process.env.PUBLIC_URL}/sounds/cream.mp3`
+    sound: `${process.env.PUBLIC_URL}/sounds/cream.Mp3`
   }
   
 ];
