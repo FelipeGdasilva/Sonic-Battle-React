@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { personagens } from './data/data';
+import { personagens } from './data/characters';
 import Home from './pages/Home';
 import './styles/components.css';
 import './styles/layout.css';
