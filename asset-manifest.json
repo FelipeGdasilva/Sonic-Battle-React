@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Sonic-Battle-React/static/css/main.ac2bf007.css",
-    "main.js": "/Sonic-Battle-React/static/js/main.067aa20a.js",
+    "main.js": "/Sonic-Battle-React/static/js/main.89185986.js",
     "static/media/tails.png": "/Sonic-Battle-React/static/media/tails.b2e12b1ea9c57b688ef8.png",
     "static/media/shadow.png": "/Sonic-Battle-React/static/media/shadow.d75b6a8e81b98f83f081.png",
     "static/media/sonic.png": "/Sonic-Battle-React/static/media/sonic.e1638fe3af2d87f8f464.png",
@@ -31,10 +31,10 @@
     "static/media/amy.mp3": "/Sonic-Battle-React/static/media/amy.795ef7b492fcde3dc44e.mp3",
     "index.html": "/Sonic-Battle-React/index.html",
     "main.ac2bf007.css.map": "/Sonic-Battle-React/static/css/main.ac2bf007.css.map",
-    "main.067aa20a.js.map": "/Sonic-Battle-React/static/js/main.067aa20a.js.map"
+    "main.89185986.js.map": "/Sonic-Battle-React/static/js/main.89185986.js.map"
   },
   "entrypoints": [
     "static/css/main.ac2bf007.css",
-    "static/js/main.067aa20a.js"
+    "static/js/main.89185986.js"
   ]
 }
