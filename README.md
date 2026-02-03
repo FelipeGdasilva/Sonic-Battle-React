@@ -5,7 +5,8 @@
  # 🎮 Sonic Battle Universe
 
 <p align="center">
-  ![Demonstração do Projeto](./screenshots/demonstracao.gif)
+  ![demonstracao](https://github.com/user-attachments/assets/2f3edf0b-590e-458b-88ff-1fc9b3d04a6b)
+
 </p>
 
 🔗 **Deploy:** https://felipegdasilva.github.io/Sonic-Battle-Universe/
