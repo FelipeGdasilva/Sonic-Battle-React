@@ -1,63 +1,82 @@
-🌀 Sonic Battle Univers
-![Demonstração do Projeto](./screenshots/demonstracao.gif)
-Este projeto é um estudo prático de React.js. A ideia central foi inspirada em um projeto de curso (originalmente em HTML, CSS e JS puro), mas decidi reconstruí-lo do zero utilizando React para praticar a lógica de componentes e estados.
 
-O objetivo é criar uma tela de seleção de lutadores para o universo Sonic Battle, focando em organização de código e interface dinâmica.
+# 🎮 Sonic Battle Universe
 
-🚀 O que eu pratiquei neste projeto?
-Como estou em processo de aprendizado, foquei em aplicar conceitos que estou estudando no momento:
+<p align="center">
+ # 🎮 Sonic Battle Universe
 
-Componentização: Dividi a interface em partes menores e reutilizáveis (como CharacterCard e CharacterInfo).
+<p align="center">
+  ![demonstracao](screenshots/demonstracao.gif)
 
-Estado (useState): Gerenciamento de qual personagem está selecionado para atualizar a tela em tempo real.
+</p>
 
-Props: Passagem de informações entre componentes pai e filho.
+🔗 **Deploy:** https://felipegdasilva.github.io/Sonic-Battle-Universe/
 
-CSS Dinâmico: O fundo da tela e as bordas mudam de cor automaticamente de acordo com o "DNA" (cor tema) de cada personagem.
+Interface interativa inspirada em telas de seleção de personagens de jogos, desenvolvida com **React** e focada em componentização, interatividade e organização de código.
 
-Tratamento de Áudio: Implementação de sons para cada personagem com tratamento de erros para navegadores.
+---
 
-🛠️ Tecnologias Utilizadas
-React.js (Vite)
+## 🧠 Funcionalidades
 
-JavaScript (ES6+)
+- 🎮 Seleção dinâmica de personagens
+- 📌 Atualização de informações em tempo real
+- 🔊 Reprodução de sons por personagem
+- 🎨 Interface estilizada com CSS e temas
 
-CSS3 (Variáveis CSS e Flexbox)
+---
 
-🧠 Ferramentas de Apoio
-IA (Inteligência Artificial): Utilizei IA como uma ferramenta de mentoria e auxílio técnico para:
+## 🛠️ Tecnologias utilizadas
 
-Refatoração: Auxílio na migração da lógica de HTML/JS puro para a arquitetura de componentes do React.
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
 
-Arquitetura: Orientação na organização de pastas e separação de responsabilidades (Pages, Components e Data).
+---
 
-Debug: Resolução de erros de compilação e conflitos de nomes de arquivos no sistema operacional.
+## 💻 Como rodar o projeto localmente
 
-📂 Organização do Projeto
-Decidi organizar as pastas de forma profissional para facilitar a manutenção:
+1. Clone o repositório:
+```bash
+git clone https://github.com/FelipeGdasilva/Sonic-Battle-Universe.git
 
-src/components: Componentes pequenos e reutilizáveis.
+🔗 **Deploy:** https://felipegdasilva.github.io/Sonic-Battle-Universe/
 
-src/pages: Estrutura das páginas principais (Home).
+Interface interativa inspirada em telas de seleção de personagens de jogos, desenvolvida com **React** e focada em componentização, interatividade e organização de código.
 
-src/data: Onde ficam todas as informações e atributos dos personagens.
+---
 
-src/assets: Organização de imagens, ícones e sons.
+## 🧠 Funcionalidades
 
-🎓 Evolução Constante
-Este projeto faz parte do meu aprendizado. Migrar a lógica de um site estático para uma biblioteca moderna como o React me ajudou a entender como os dados fluem em uma aplicação real.
+- 🎮 Seleção dinâmica de personagens
+- 📌 Atualização de informações em tempo real
+- 🔊 Reprodução de sons por personagem
+- 🎨 Interface estilizada com CSS e temas
 
-Próximos passos:
+---
 
-[ ] Adicionar sistema de "Golpes Especiais" (Stats detalhados).
+## 🛠️ Tecnologias utilizadas
 
-[ ] Criar uma tela de "Start" antes da seleção.
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
 
-[ ] Melhorar a responsividade para dispositivos móveis.
+---
 
-Como rodar o projeto localmente:
-Clone o repositório.
+## 💻 Como rodar o projeto localmente
 
-No terminal, use: npm install.
+1. Clone o repositório:
+```bash
+git clone https://github.com/FelipeGdasilva/Sonic-Battle-Universe.git
 
-Para iniciar o servidor de desenvolvimento, use: npm run dev.
+2. Acesse a pasta do projeto:
+cd Sonic-Battle-Universe
+
+3. Instale as dependências:
+npm install
+
+4.Execute o projeto:
+npm run dev
+
+
+
